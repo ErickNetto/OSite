@@ -2,3 +2,25 @@
     margin: 0%;
     padding: 0%;
 }
+main section article{
+    background-color: red;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 400px;
+    height: 200px;
+}
+main section article img{
+    width: 150px;
+    padding-top: 5%;
+    margin-left: 2%;
+}
+main section article h1{
+   margin-top: 10%;
+    margin-left: 2%
+}
+main section article p {
+    padding-left: 175px;
+    margin-top: 12%;
+}
