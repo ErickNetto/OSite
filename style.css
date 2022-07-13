@@ -3,5 +3,15 @@
     padding: 0%;
 }
 main aside{
-    
+    height: 600px;
+    width: 200px;
+    background-color: rgb(51, 45, 45);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+main aside section input{
+    height: 2em;
 }
