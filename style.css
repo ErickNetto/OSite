@@ -4,4 +4,19 @@
 }
 .Outros-destaques{
     float: left;
+    background-color: #6ce01a;
+    width: 25%;
+}
+.titulo-destaques{
+    background-color:#6ce01a ;
+    width: 50%;
+    color: #1a242c;
+}
+.botao-destaques{
+    width: 20%;
+    height: 20px;
+    margin-left: 60%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    cursor:grab;
 }
