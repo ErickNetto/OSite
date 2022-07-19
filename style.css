@@ -19,7 +19,7 @@
     margin-top: 2%;
     margin-bottom: 1%;
     cursor:grab;
-
+}
 header img{
     float: left;
     width: 5%;
@@ -70,3 +70,4 @@ header nav div{
     padding-left: 1%;
     padding-right: 1%;
 }
+
