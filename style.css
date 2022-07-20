@@ -63,6 +63,9 @@ aside section div{
     margin: 5px;
     border: solid 5px #1a242c;
 }
+aside section div:hover{
+    box-shadow: #0c7cd7 inset 0px 0px 15px 5px;
+}
 aside section div:nth-child(1){
     background-image: url(./img/a.jpg);
     object-fit: scale-down;
