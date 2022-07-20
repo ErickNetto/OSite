@@ -11,7 +11,7 @@ aside{
     align-items:center;
     padding: 20px;
     width: 20vw;
-    background-color: #407f14;
+    background-color: #4cf01f;
 }
 aside section{
     margin-bottom: 10px;
@@ -39,7 +39,7 @@ aside section h2{
     font-family: space mono;
 }
 aside section ul{
-    background-color: #6ce01aa6;
+    background-color: #4cf01f;
     display: flex;
     flex-direction: column;
     padding-left: 20px;
@@ -134,7 +134,7 @@ main section article a{
 }
 
 .titulo-destaques{
-    background-color:#407f14 ;
+    background-color:#4cf01f ;
     width: 100%;
     color: #1a242c;
     font-family: space mono;
@@ -144,7 +144,7 @@ main section article a{
 }
 
 body section h3{
-    background-color:#407f14 ;
+    background-color:#4cf01f ;
 }
 
 .botao-destaques{
