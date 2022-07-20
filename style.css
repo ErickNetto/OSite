@@ -28,6 +28,7 @@ aside{
     width: 20vw;
     background-color: #7aff1c;
     margin-top: -20.8%;
+    margin-right: 2%;
 }
 
 aside section{
@@ -268,3 +269,6 @@ footer p{
     padding-left: 2%;
 }
 
+body{
+    background-color: #6ce01a;
+}
