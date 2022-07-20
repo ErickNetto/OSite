@@ -1,9 +1,22 @@
+button{
+    font-family: space mono;
+    background-color: #1a242c;
+    color: white;
+}
+
 *{
     margin: 0%;
     padding: 0%;
-
     color: #1a242c;
 }
+p {
+    font-family: rubik;
+}
+
+h1, h2, h3{
+    font-family: Space Mono;
+}
+
 aside{
     float: right;
     display: flex;
@@ -13,7 +26,7 @@ aside{
     align-items:center;
     padding: 20px;
     width: 20vw;
-    background-color: #4cf01f;
+    background-color: #7aff1c;
 }
 aside section{
     margin-bottom: 10px;
@@ -29,11 +42,11 @@ aside section input{
     right: 1.65px;
 }
 aside section input:hover{
-    border:#6ce01a solid 2px;
-    box-shadow: 0px 0px 10px 4px #4cf01f inset;
+    border:#7aff1c solid 2px;
+    box-shadow: 0px 0px 10px 4px #7aff1c inset;
 }
 aside section h2{
-    background-color: black;
+    background-color: #1a242c;
     width: 20vw;
     color: white;
     padding: 5px;
@@ -41,7 +54,7 @@ aside section h2{
     font-family: space mono;
 }
 aside section ul{
-    background-color: #4cf01f;
+    background-color: #7aff1c;
     display: flex;
     flex-direction: column;
     padding-left: 20px;
@@ -85,7 +98,7 @@ aside section div:nth-child(4){
     object-fit:scale-down;
 }
 main section article{
-    background-color: #6ce01a;
+    background-color: #7aff1c;
     margin-left: 2%;
     margin-right: 1%;
     margin-top: 1%;
@@ -99,6 +112,7 @@ main section article img{
    padding-left: 2%;
    margin-bottom: 2%;
 }
+
 main section article h1{
   padding-left: 3%;
   padding-right: 3%;
@@ -108,12 +122,14 @@ main section article h1{
   width: 94%;
   color: white;
 }
+
 main section article h2{
     margin-top: -30%;
     margin-left: 28%;
     font-family: space mono;
     font-size: medium;
   }
+
 main section article p {
     padding-left: 175px;
     margin-top: 12%;
@@ -125,19 +141,20 @@ main section article p {
 main section article a{
     width: 1%;
     height: 1%;
-    color: black;
-    background-color: aqua;
+    background-color: #1a242c;
+    color: white;
+    font-family: Space Mono;
 }
 
 .Outros-destaques{
     float: left;
-    background-color:#4cf01f;
+    background-color:#7aff1c;
     max-width: 25%;
     margin: 2%;
 }
 
 .titulo-destaques{
-    background-color:#4cf01f ;
+    background-color:#7aff1c ;
     width: 100%;
     color: #1a242c;
     font-family: space mono;
@@ -147,7 +164,7 @@ main section article a{
 }
 
 body section h3{
-    background-color:#4cf01f ;
+    background-color:#7aff1c ;
 }
 
 .botao-destaques{
@@ -191,7 +208,7 @@ header img{
 header{
     width: 100%;
     height: 30%;
-    background-color:#4cf01f;
+    background-color:#7aff1c;
     color: #1a242c;
     font-family: Space Mono;
     border-bottom: 5px solid #1a242c;
@@ -233,6 +250,7 @@ html{
 }
 
 footer{
+    
     margin-left: 1%;
     margin-right: 1%;
     height: 25px;
