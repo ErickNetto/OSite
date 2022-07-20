@@ -11,7 +11,7 @@ aside{
     align-items:center;
     padding: 20px;
     width: 20vw;
-    background-color: grey;
+    background-color: #407f14;
 }
 aside section{
     margin-bottom: 10px;
@@ -22,6 +22,13 @@ aside section input{
     width: 20vw;
     height: 30px;
     padding:5px;
+    border: solid 2px #1a242c;
+    position: relative;
+    right: 1.65px;
+}
+aside section input:hover{
+    border:#6ce01a solid 2px;
+    box-shadow: 0px 0px 10px 4px #4cf01f inset;
 }
 aside section h2{
     background-color: black;
@@ -32,13 +39,13 @@ aside section h2{
     font-family: space mono;
 }
 aside section ul{
-    background-color: white;
+    background-color: #6ce01aa6;
     display: flex;
     flex-direction: column;
     padding-left: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-family: rubik;
+    font-family: 'Rubik';
 }
 aside section:nth-child(3) {
     display: flex;
@@ -54,6 +61,7 @@ aside section div{
     background-color: white;
     justify-content: center;
     margin: 5px;
+    border: solid 5px #1a242c;
 }
 aside section div:nth-child(1){
     background-image: url(./img/a.jpg);
