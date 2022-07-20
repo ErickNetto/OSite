@@ -7,9 +7,16 @@ button{
 *{
     margin: 0%;
     padding: 0%;
-
     color: #1a242c;
 }
+p {
+    font-family: rubik;
+}
+
+h1, h2, h3{
+    font-family: Space Mono;
+}
+
 aside{
     float: right;
     display: flex;
@@ -39,7 +46,7 @@ aside section input:hover{
     box-shadow: 0px 0px 10px 4px #7aff1c inset;
 }
 aside section h2{
-    background-color: black;
+    background-color: #1a242c;
     width: 20vw;
     color: white;
     padding: 5px;
